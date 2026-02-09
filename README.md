@@ -12,9 +12,6 @@ Atualmente, estudo e desenvolvo projetos com foco em **programação**, **estrut
 Aqui compartilho projetos que considerei relevantes e interessantes ao longo da minha **graduação**.
 
 ---
-
-## Linguagens
-
 Tenho experiência com:
 - **C**
 - **C++**
