@@ -24,8 +24,6 @@ Tenho experiência com:
 - **HTML & CSS**
 ---
 
-## Forma de aprendizado
-
 - Perfil **autodidata**
 - Aprendizado contínuo
 - Proatividade na busca por conhecimento
